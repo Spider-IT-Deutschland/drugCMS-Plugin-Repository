@@ -1,0 +1,20 @@
+drugCMS Plugin Repository is written and distributed under the MIT License
+which means that its source code is freely-distributed and available to the
+general public.
+
+
+drugCMS Plugin Repository, versions 1.0 and higher, 
+Copyright (C) 2015 by Spider IT Deutschland.
+
+drugCMS Plugin Repository comes with ABSOLUTELY NO WARRANTY.
+
+Spider IT Deutschland
+Neue Straße 4
+37627 Stadtoldendorf
+Germany
+E-Mail: info@spider-it.de
+Web: http://www.spider-it.de/
+
+drugCMS and components:
+E-Mail: info@drugcms.org
+Web: http://www.drugcms.org/
